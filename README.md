@@ -1,0 +1,2 @@
+# Object-detection-by-OpenCV
+Object detection is a computer vision technique in which a software system can detect,  locate, and trace the object from a given image or video.The algorithm which is used is Single shot Detection.The special attribute about  object detection is that it identifies the class of object (person, table, chair,car, etc.) and their  location-specific coordinates in the given image. Face detection is one of the examples  of object detection.
